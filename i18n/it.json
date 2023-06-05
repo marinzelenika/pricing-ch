@@ -1,49 +1,7 @@
 [
   {
-    "desc-GroupDocs.Total Product Family": {
-      "other": "Manipola documenti all'interno delle tue soluzioni desktop e delle app web senza richiedere altri prodotti commerciali."
-    },
-    "desc-GroupDocs.Viewer Product Family": {
-      "other": "Soluzione flessibile di visualizzazione dei documenti per programmatori e professionisti per renderizzare e visualizzare formati di file ampiamente utilizzati ovunque."
-    },
-    "desc-GroupDocs.Conversion Product Family": {
-      "other": "Converti formati di file documenti e immagini popolari su qualsiasi piattaforma con soluzioni basate su app e API."
-    },
-    "desc-GroupDocs.Editor Product Family": {
-      "other": "Editor di documenti per manipolare formati di file documenti Microsoft Office, OpenOffice, PDF, HTML e altri."
-    },
-    "desc-Groupdocs.Merger Product Family": {
-      "other": "Unisci facilmente più documenti o dividi documenti Microsoft Office, OpenOffice, PDF e altri in pagine."
-    },
-    "desc-GroupDocs.Comparison Product Family": {
-      "other": "Confronta contenuti e stili di documenti su piattaforme popolari con le nostre API e soluzioni basate su app in locale e nel cloud."
-    },
-    "desc-GroupDocs.Annotation Product Family": {
-      "other": "Annota documenti con le nostre app o crea le tue applicazioni di annotazione personalizzate su piattaforme popolari utilizzando API in locale o nel cloud."
-    },
-    "desc-GroupDocs.Assembly Product Family": {
-      "other": "Genera automaticamente rapporti in diversi formati da modelli personalizzati e diverse origini di dati con le nostre app e API multipiattaforma."
-    },
-    "desc-GroupDocs.Parser Product Family": {
-      "other": "Estrai testo, immagini, metadati e rilevamento della codifica per documenti Microsoft Office, OpenOffice, PDF, HTML e altri formati di file a tua scelta."
-    },
-    "desc-GroupDocs.Signature Product Family": {
-      "other": "Firma documenti digitali e immagini su qualsiasi piattaforma utilizzando le nostre API flessibili e soluzioni basate su app per programmatori e utenti finali."
-    },
-    "desc-GroupDocs.Metadata Product Family": {
-      "other": "API e app per leggere, modificare, sostituire e rimuovere metadati di documenti, immagini e altri formati di file su piattaforme popolari."
-    },
-    "desc-GroupDocs.Search Product Family": {
-      "other": "Esegui la ricerca di testo e l'indicizzazione su documenti Microsoft Office, OpenOffice, PDF e molti altri formati di file documenti."
-    },
-    "desc-GroupDocs.Watermark Product Family": {
-      "other": "Applica e manipola rapidamente filigrane di testo e immagini ai tuoi documenti e immagini con una ricerca intelligente."
-    },
-    "desc-Groupdocs.Redaction Product Family": {
-      "other": "Nascondi o rimuovi informazioni private da documenti Microsoft Office, fogli di calcolo, presentazioni, PDF e immagini."
-    },
-    "desc-GroupDocs.Classification Product Family": {
-      "other": "Classifica in modo programmato documenti e testo in categorie accurate utilizzando IAB (versione 2) e tassonomie dei documenti all'interno di qualsiasi tipo di applicazione .NET."
+    "desc-Conholdate.Total Product Family": {
+      "other": "Conholdate.Total Product Family è la suite all-in-one più completa di API per formati di file, estensioni di rendering ed esportatori offerti da Aspose e GroupDocs."
     },
     "only-supported": {
       "other": "Questo prodotto è attualmente supportato solo per la piattaforma .NET e quindi non è disponibile alcun pacchetto famiglia."
@@ -76,7 +34,7 @@
       "other": "Prezzi"
     },
     "home-description": {
-      "other": "Potenzia le tue app web, mobili o desktop con la capacità di visualizzare, annotare, convertire, firmare digitalmente, confrontare e assemblare documenti."
+      "other": "Esegui un'ampia gamma di attività di elaborazione dei documenti su Word, Excel, PDF, PowerPoint, Outlook e oltre 100 altri formati di file, utilizzando API native per .NET e Java."
     },
     "estimate": {
       "other": "Puoi stimare i costi mensili utilizzando il nostro"

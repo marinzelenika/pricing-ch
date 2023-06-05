@@ -20,12 +20,12 @@ transform.Unmarshal . }}
         {{ $split := split .Name " " }}
         {{ $splitName := index $split 0 }}
         <h5 class="card-title"><strong>{{ $splitName }}</strong></h5>
-        <p class="card-text">
+        <p class="card-text mb-4">
             {{ $descc := print "desc-" "" .Name }}
             {{ i18n $descc . }}
         </p>
        
-        <p class="card-text">
+        <p class="card-text mt-5">
           {{ i18n "from" . }} <br />
             {{ $name := .Name }}
             {{ $dataJ := getJSON "data/products.json" }}

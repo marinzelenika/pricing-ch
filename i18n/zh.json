@@ -1,49 +1,7 @@
 [
   {
-    "desc-GroupDocs.Total Product Family": {
-      "other": "在您自己的桌面解决方案和 Web 应用程序中操作文档，无需其他商业产品。"
-    },
-    "desc-GroupDocs.Viewer Product Family": {
-      "other": "灵活的文档查看解决方案，供程序员和专业人士在任何地方呈现和显示广泛使用的文件格式。"
-    },
-    "desc-GroupDocs.Conversion Product Family": {
-      "other": "在任何平台上使用应用程序和基于 API 的解决方案转换流行的文档和图像文件格式。"
-    },
-    "desc-GroupDocs.Editor Product Family": {
-      "other": "文档编辑器，用于操作 Microsoft Office、OpenOffice、PDF、HTML 和其他文档文件格式。"
-    },
-    "desc-Groupdocs.Merger Product Family": {
-      "other": "轻松合并多个文档或将 Microsoft Office、OpenOffice、PDF 和其他文档拆分为页面。"
-    },
-    "desc-GroupDocs.Comparison Product Family": {
-      "other": "使用我们的本地和云 API 和基于应用程序的解决方案，在流行的平台上比较文档内容和样式。"
-    },
-    "desc-GroupDocs.Annotation Product Family": {
-      "other": "使用我们的应用程序注释文档，或构建您自己的自定义注释应用程序，在流行的平台上使用本地或云 API。"
-    },
-    "desc-GroupDocs.Assembly Product Family": {
-      "other": "使用我们的跨平台应用程序和 API，从自定义模板和不同数据源中以不同格式自动生成报告。"
-    },
-    "desc-GroupDocs.Parser Product Family": {
-      "other": "提取您选择的 Microsoft Office、OpenOffice、PDF、HTML 和其他文件格式的文本、图像、元数据和编码检测。"
-    },
-    "desc-GroupDocs.Signature Product Family": {
-      "other": "使用我们灵活的 API 和基于应用程序的解决方案，在任何平台上对数字文档和图像进行签名。供程序员和最终用户使用。"
-    },
-    "desc-GroupDocs.Metadata Product Family": {
-      "other": "用于在流行的平台上读取、编辑、替换和删除文档、图像和其他文件格式的元数据的 API 和应用程序。"
-    },
-    "desc-GroupDocs.Search Product Family": {
-      "other": "在 Microsoft Office、OpenOffice、PDF 和许多其他文档文件格式上执行文本搜索和索引。"
-    },
-    "desc-GroupDocs.Watermark Product Family": {
-      "other": "使用智能搜索快速应用和操作文档和图像的基于文本和图像的水印。"
-    },
-    "desc-Groupdocs.Redaction Product Family": {
-      "other": "从 Microsoft Office 文档、电子表格、演示文稿、PDF 和图像中隐藏或删除私人信息。"
-    },
-    "desc-GroupDocs.Classification Product Family": {
-      "other": "使用 IAB（版本 2）和文档分类法在任何类型的 .NET 应用程序中以准确的分类对文档和文本进行编程分类。"
+    "desc-Conholdate.Total Product Family": {
+      "other": "Conholdate.Total 产品系列是 Aspose 和 GroupDocs 提供的最全面的文件格式 API、渲染扩展和导出器的一体化套件。"
     },
     "only-supported": {
       "other": "该产品目前仅支持 .NET 平台，因此没有提供家庭套装。"
@@ -76,7 +34,7 @@
       "other": "定价"
     },
     "home-description": {
-      "other": "通过能够显示、注释、转换、电子签名、比较和组装文档，增强您的 Web、移动或桌面应用程序的功能。"
+      "other": "使用适用于 .NET 和 Java 的本机 API，对 Word、Excel、PDF、PowerPoint、Outlook 和 100 多种其他文件格式执行广泛的文档处理任务。"
     },
     "estimate": {
       "other": "您可以使用我们的"

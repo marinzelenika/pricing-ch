@@ -1,49 +1,7 @@
 [
   {
-    "desc-GroupDocs.Total Product Family": {
-      "other": "Manipula documentos desde tus propias soluciones de escritorio y aplicaciones web sin necesidad de ningún otro producto comercial."
-    },
-    "desc-GroupDocs.Viewer Product Family": {
-      "other": "Solución flexible de visualización de documentos para programadores y profesionales para renderizar y mostrar formatos de archivo ampliamente utilizados en cualquier lugar."
-    },
-    "desc-GroupDocs.Conversion Product Family": {
-      "other": "Convierte formatos populares de documentos e imágenes en cualquier plataforma con soluciones basadas en aplicaciones y API."
-    },
-    "desc-GroupDocs.Editor Product Family": {
-      "other": "Editor de documentos para manipular formatos de archivo de Microsoft Office, OpenOffice, PDF, HTML y otros documentos."
-    },
-    "desc-Groupdocs.Merger Product Family": {
-      "other": "Combina fácilmente varios documentos o divide documentos de Microsoft Office, OpenOffice, PDF y otros en páginas."
-    },
-    "desc-GroupDocs.Comparison Product Family": {
-      "other": "Compara el contenido y los estilos de documentos en diferentes plataformas con nuestras API y soluciones basadas en aplicaciones en las instalaciones y en la nube."
-    },
-    "desc-GroupDocs.Annotation Product Family": {
-      "other": "Anota documentos con nuestras aplicaciones o crea tus propias aplicaciones de anotación personalizadas en diferentes plataformas utilizando nuestras API en las instalaciones o en la nube."
-    },
-    "desc-GroupDocs.Assembly Product Family": {
-      "other": "Genera automáticamente informes en diferentes formatos a partir de plantillas personalizadas y diferentes fuentes de datos con nuestras aplicaciones y API multiplataforma."
-    },
-    "desc-GroupDocs.Parser Product Family": {
-      "other": "Extrae texto, imágenes, metadatos y detección de codificación para formatos de archivo de Microsoft Office, OpenOffice, PDF, HTML y otros formatos de archivo de tu elección."
-    },
-    "desc-GroupDocs.Signature Product Family": {
-      "other": "Firma documentos digitales e imágenes en cualquier plataforma utilizando nuestras API flexibles y soluciones basadas en aplicaciones para programadores y usuarios finales."
-    },
-    "desc-GroupDocs.Metadata Product Family": {
-      "other": "API y aplicaciones para leer, editar, reemplazar y eliminar metadatos de documentos, imágenes y otros formatos de archivo en plataformas populares."
-    },
-    "desc-GroupDocs.Search Product Family": {
-      "other": "Realiza búsqueda de texto e indexación en documentos de Microsoft Office, OpenOffice, PDF y muchos otros formatos de archivo de documentos."
-    },
-    "desc-GroupDocs.Watermark Product Family": {
-      "other": "Aplica y manipula rápidamente marcas de agua de texto e imagen en tus documentos e imágenes con una búsqueda inteligente."
-    },
-    "desc-Groupdocs.Redaction Product Family": {
-      "other": "Oculta o elimina información privada de documentos de Microsoft Office, hojas de cálculo, presentaciones, PDF e imágenes."
-    },
-    "desc-GroupDocs.Classification Product Family": {
-      "other": "Clasifica documentos y texto de forma programática en categorías precisas utilizando IAB (versión 2) y taxonomías de documentos en cualquier tipo de aplicaciones .NET."
+    "desc-Conholdate.Total Product Family": {
+      "other": "Conholdate.Total Product Family es el conjunto todo en uno más completo de API de formato de archivo, extensiones de representación y exportadores que ofrecen Aspose y GroupDocs."
     },
     "only-supported": {
       "other": "Este producto actualmente solo es compatible con la plataforma .NET y, por lo tanto, no hay paquetes familiares disponibles."
@@ -76,7 +34,7 @@
       "other": "Precios"
     },
     "home-description": {
-      "other": "Mejora tus aplicaciones web, móviles o de escritorio con la capacidad de mostrar, anotar, convertir, firmar electrónicamente, comparar y ensamblar documentos."
+      "other": "Realice una amplia gama de tareas de procesamiento de documentos en Word, Excel, PDF, PowerPoint, Outlook y más de otros 100 formatos de archivo, utilizando API nativas para .NET y Java."
     },
     "estimate": {
       "other": "Puedes estimar los costos mensuales utilizando nuestro"

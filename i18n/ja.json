@@ -1,50 +1,7 @@
 [
   {
-    "desc-GroupDocs.Total Product Family": {
-      "other": "他の商用製品を必要とせずに、独自のデスクトップソリューションやWebアプリ内でドキュメントを操作します。"
-    },
-    "desc-GroupDocs.Viewer Product Family": {
-      "other": "プログラマーや専門家向けの柔軟なドキュメント表示ソリューションで、広く使用されるファイル形式をどこでもレンダリングして表示します。"
-    },
-    "desc-GroupDocs.Conversion Product Family": {
-      "other": "アプリとAPIベースのソリューションで、さまざまなプラットフォームで人気のあるドキュメントおよび画像ファイル形式を変換します。"
-    },
-    "desc-GroupDocs.Editor Product Family": {
-      "other": "Microsoft Office、OpenOffice、PDF、HTMLなどのドキュメントファイル形式を操作するドキュメントエディター。"
-    },
-    "desc-Groupdocs.Merger Product Family": {
-      "other": "簡単に複数のドキュメントを結合したり、Microsoft Office、OpenOffice、PDFなどのドキュメントをページ単位で分割したりします。"
-    },
-    "desc-GroupDocs.Comparison Product Family": {
-      "other": "オンプレミスおよびクラウドAPIとアプリベースのソリューションを使用して、人気のあるプラットフォーム上でドキュメントのコンテンツとスタイルを比較します。"
-    },
-    "desc-GroupDocs.Annotation Product Family": {
-      "other": "アプリでドキュメントに注釈を付けるか、オンプレミスまたはクラウドAPIを使用して、人気のあるプラットフォーム上で独自のカスタム注釈アプリケーションを構築します。"
-    },
-    "desc-GroupDocs.Assembly Product Family": {
-      "other": "クロスプラットフォームのアプリとAPIを使用して、カスタムテンプレートとさまざまなデータソースからさまざまな形式のレポートを自動生成します。"
-    },
-    "desc-GroupDocs.Parser Product Family": {
-      "other": "選択したMicrosoft Office、OpenOffice、PDF、HTMLなどのファイル形式のテキスト、画像、メタデータ、およびエンコーディングを抽出します。"
-    },
-    "desc-GroupDocs.Signature Product Family": {
-      "other": "柔軟なAPIとプログラマーおよびエンドユーザー向けのアプリベースのソリューションを使用して、任意のプラットフォームでデジタルドキュメントと画像に署名します。"
-    },
-    "desc-GroupDocs.Metadata Product Family": {
-      "other": "一般的なプラットフォーム上のドキュメント、画像、および他のファイル形式のメタデータを読み取り、編集、置換、削除するためのAPIおよびアプリ。"
-    },
-    "desc-GroupDocs.Search Product Family": {
-      "other": "Microsoft Office、OpenOffice、PDFなどのさまざまなドキュメントファイル形式でテキスト検索とインデックス作成を実行します。"
-    },
-    "desc-GroupDocs.Watermark Product Family": {
-      "other": "スマート検索を使用して、ドキュメントと画像にテキストベースおよび画像ベースの透かしを迅速に適用および操作します。"
-    },
-    "desc-Groupdocs.Redaction Product Family": {
-      "other": "Microsoft Officeドキュメント、スプレッドシート、プレゼンテーション、PDF、および画像から個人情報を隠したり削除したりします。"
-    },
-
-    "desc-GroupDocs.Classification Product Family": {
-      "other": "IAB（バージョン2）とドキュメントタクソノミーを使用して、ドキュメントやテキストを正確なカテゴリに自動分類します。.NETアプリケーションのいかなるタイプでも利用できます。"
+    "desc-Conholdate.Total Product Family": {
+      "other": "Conholdate.Total 製品ファミリーは、Aspose と GroupDocs が提供するファイル形式 API、レンダリング拡張機能、およびエクスポーターの最も包括的なオールインワン スイートです。"
     },
     "only-supported": {
       "other": "この製品は現在、.NETプラットフォームのみサポートされており、したがってファミリーパックは利用できません。"
@@ -77,7 +34,7 @@
       "other": "価格"
     },
     "home-description": {
-      "other": "ウェブ、モバイル、またはデスクトップアプリを強化し、ドキュメントの表示、注釈付け、変換、電子署名、比較、アセンブルを行う機能を提供します。"
+      "other": ".NET および Java のネイティブ API を使用して、Word、Excel、PDF、PowerPoint、Outlook、およびその他の 100 以上のファイル形式で幅広いドキュメント処理タスクを実行します。"
     },
     "estimate": {
       "other": "月額費用の見積もりは、次の"
