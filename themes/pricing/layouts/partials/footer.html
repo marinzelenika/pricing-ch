@@ -1,4 +1,8 @@
-  {{ $dynamicmenuid := "conholdate-en"}}
+   {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+  {{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
+
+  <script src="{{$js.RelPermalink}}" defer></script>
+ {{ $dynamicmenuid := "conholdate-en"}}
 {{ if .Site.IsMultiLingual }}
     {{ if (index site.Params.dynamicmenuid .Site.LanguageCode)}}
         {{ $dynamicmenuid = (index site.Params.dynamicmenuid .Site.LanguageCode) }}
@@ -9,7 +13,3 @@
 </script>  
 <!-- JavaScript and dependencies -->
 
-  {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
-  {{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
-
-  <script src="{{$js.RelPermalink}}" defer></script>
