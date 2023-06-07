@@ -22,8 +22,12 @@
     <script src="{{ $main.RelPermalink }}" integrity="{{ $main.Data.Integrity }}" defer></script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;700&display=swap" rel="stylesheet">
+       {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+  {{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
+
+  <script src="{{$js.RelPermalink}}" defer></script>
 {{/*  <script async="" src="https://chat.containerize.com/livechat/rocketchat-livechat.min.js?_=201903270000"></script>  */}}
 {{/*  <script type="text/javascript">
 (function(w, d, s, u) {
