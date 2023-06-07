@@ -15,7 +15,10 @@
     <link rel="stylesheet" href="https://www.aspose.com/css/locale.min.css" />
     {{ if .Page.IsTranslated }} {{- partial "langswitcher.html" . -}} {{ end }} 
     {{ $options := (dict "targetPath" "css/styles.css" "outputStyle" "compressed") }}
+           {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+  {{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
 
+  <script src="{{$js.RelPermalink}}" defer></script>
     {{ $style := resources.Get "sass/main.scss" | toCSS  $options | minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}" media="screen">
     {{ $main := resources.Get "js/index.js" | js.Build $options | resources.Minify | fingerprint -}}
@@ -24,10 +27,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;700&display=swap" rel="stylesheet">
-       {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
-  {{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
 
-  <script src="{{$js.RelPermalink}}" defer></script>
 {{/*  <script async="" src="https://chat.containerize.com/livechat/rocketchat-livechat.min.js?_=201903270000"></script>  */}}
 {{/*  <script type="text/javascript">
 (function(w, d, s, u) {
