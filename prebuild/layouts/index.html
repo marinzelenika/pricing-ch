@@ -9,7 +9,6 @@
 
 {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
 .Content }} {{ with transform.Unmarshal . }}
-{{ $ppCount := 0 }}
 {{ range .Products }}
 {{ if eq .isArchived false }}
 {{ $productName := .Name }}
