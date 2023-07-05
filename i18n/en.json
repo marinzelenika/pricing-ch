@@ -9,6 +9,9 @@
     "only-supported": {
       "other": "There is currently no family pack available for this product."
     },
+    "visit": {
+      "other": "Visit product page"
+    },
     "from": {
       "other": "from"
     },
