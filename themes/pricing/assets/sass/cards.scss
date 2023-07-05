@@ -42,7 +42,7 @@
     margin-bottom: 15px;
     width: 40px !important;
     height: 40px !important;
-    opacity: 70%;
+    //opacity: 70%;
 }
 .card-text {
     font-size: x-small;
@@ -50,16 +50,23 @@
     color: gray;
 }
 .dropdown-toggle {
-  background-color: transparent !important;
+  background-color: white !important; /* Changed background color */
   border-radius: 30px;
-  border: 1px solid !important;
+  border: 2px solid $primary !important; /* Bolder and changed border color */
   padding: 10px 20px;
-  color: darkgray !important;
-  font-size: 0.75em;
+  color: $primary !important; /* Changed text color to white */
+  font-size: .8em; /* Increased font size */
   width: 100%;
   display: flex;
   align-items: center;
   margin: 0 auto;
+  //box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Added box shadow */
+  transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover effect */
+}
+
+/* Hover effect */
+.dropdown-toggle:hover {
+  box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.3); /* Increase box shadow */
 }
 .hr-or {
   position: relative;

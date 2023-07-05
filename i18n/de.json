@@ -3,6 +3,9 @@
     "desc-Conholdate.Total Product Family": {
       "other": "Die Conholdate.Total-Produktfamilie ist die umfassendste All-in-One-Suite von Dateiformat-APIs, Rendering-Erweiterungen und Exportern, die von Aspose und GroupDocs angeboten werden."
     },
+    "desc-Aspose.BarCode Product Family": {
+      "other": "Aspose.BarCode ist eine leistungsstarke Bibliothek zum Generieren und Erkennen von 1D- und 2D-Barcodes aus mehreren Bildtypen aus jedem Winkel."
+    },
     "only-supported": {
       "other": "Dieses Produkt wird derzeit nur f�r die .NET-Plattform unterst�tzt, daher ist kein Family Pack verf�gbar."
     },

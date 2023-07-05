@@ -1,7 +1,8 @@
 [
   {
     "products": [
-      { "name": "Conholdate.Total Product Family", "price": "4999" }
+      { "name": "Conholdate.Total Product Family", "price": "4999" },
+      { "name": "Aspose.BarCode Product Family", "price": "99" }
     ]
   }
 ]

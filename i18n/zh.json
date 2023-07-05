@@ -3,6 +3,9 @@
     "desc-Conholdate.Total Product Family": {
       "other": "Conholdate.Total 产品系列是 Aspose 和 GroupDocs 提供的最全面的文件格式 API、渲染扩展和导出器的一体化套件。"
     },
+    "desc-Aspose.BarCode Product Family": {
+      "other": "Aspose.BarCode 是一个功能强大的库，可以从任意角度的多种图像类型生成和识别一维和二维条形码。"
+    },
     "only-supported": {
       "other": "该产品目前仅支持 .NET 平台，因此没有提供家庭套装。"
     },
