@@ -7,7 +7,10 @@
       "other": "Aspose.BarCode 是一个功能强大的库，可以从任意角度的多种图像类型生成和识别一维和二维条形码。"
     },
     "only-supported": {
-      "other": "该产品目前仅支持 .NET 平台，因此没有提供家庭套装。"
+      "other": "目前该产品没有可用的家庭包。"
+    },
+    "visit": {
+      "other": "访问产品页面"
     },
     "from": {
       "other": "从"
@@ -16,7 +19,7 @@
       "other": "每个平台，每年"
     },
     "choose-platform": {
-      "other": "选择一个平台"
+      "other": "选择单个库"
     },
     "or": {
       "other": "或"

@@ -6,7 +6,7 @@
 <h4>{{ .Name }}</h4>
 {{ $url := print "https://purchase-api.dynabic.com/v1.2/productFamily/site-conholdate/name-" "" .Name }}
 {{ with resources.GetRemote $url }}
-
+{{ $type := "platform"}}
 {{ with .Err }} {{ warnf "%s" . }} {{ else }} {{ with
 .Content }} {{ with transform.Unmarshal . }}
 {{ range .Products }}
@@ -16,8 +16,10 @@
 {{ if strings.Contains $productName "+" }}
 {{ $productName = replace $productName "+" "p" }}
 {{ end }}
-
-{{ $product := dict "Id" .Id "Name" .Name "Description" .Description "weight" .DisplayOrder "FamilyId" .FamilyId "LargeImg" .LargeLogoImageSrc "ProductPageUrl" .CommercialPageUrl | jsonify (dict "prefix" " " "indent" "  ") }}
+{{ if strings.Contains $productName "Aspose" }}
+{{ $type = "plugin" }}
+{{ end }}
+{{ $product := dict "Id" .Id "Name" .Name "Description" .Description "weight" .DisplayOrder "FamilyId" .FamilyId "LargeImg" .LargeLogoImageSrc "ProductPageUrl" .CommercialPageUrl "type" $type | jsonify (dict "prefix" " " "indent" "  ") }}
 
 {{/* 1. */}}{{ $string := $product }}
     {{/* 2. */}} {{ $filename := printf "product/%s.md" (urlize $productName) }} 
@@ -32,7 +34,6 @@
 {{ end }}
 {{ end }}
 {{ end }}
-
 {{ end }}
 {{ end }}
 {{ end }}

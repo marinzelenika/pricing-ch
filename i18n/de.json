@@ -7,7 +7,10 @@
       "other": "Aspose.BarCode ist eine leistungsstarke Bibliothek zum Generieren und Erkennen von 1D- und 2D-Barcodes aus mehreren Bildtypen aus jedem Winkel."
     },
     "only-supported": {
-      "other": "Dieses Produkt wird derzeit nur f�r die .NET-Plattform unterst�tzt, daher ist kein Family Pack verf�gbar."
+      "other": "Für dieses Produkt ist derzeit kein Familienpaket verfügbar."
+    },
+    "visit": {
+      "other": "Besuchen Sie die Produktseite"
     },
     "from": {
       "other": "von"
@@ -16,7 +19,7 @@
       "other": "pro Plattform, pro Jahr"
     },
     "choose-platform": {
-      "other": "W�hlen Sie eine Plattform"
+      "other": "Wählen Sie eine einzelne Bibliothek"
     },
     "or": {
       "other": "oder"
@@ -155,6 +158,54 @@
     },
     "expl12": {
       "other": "Rabatt: Ein Rabatt wird angewendet, wenn Sie mehrere Produkte oder Lizenzen gleichzeitig kaufen."
+    },
+    "expl13": {
+      "other": "Kaufen Sie mehrere Lizenzen und erhalten Sie einen Rabatt. Metered-Lizenzen enthalten eingebaute Rabatte, da zusätzliche Entwickler keine zusätzlichen Kosten verursachen."
+    },
+    "expl14": {
+      "other": "Erhalten Sie kostenlosen technischen Support vor dem Kauf oder auch, wenn Ihr Wartungsabonnement abgelaufen ist. Für Prioritätssupport schauen Sie sich die kostenpflichtigen Supportoptionen an."
+    },
+    "expl15": {
+      "other": "Dies gilt nicht für Metered-Lizenzen, die immer auf dem neuesten Stand sind."
+    },
+    "total-credits": {
+      "other": "Gesamtkredite"
+    },
+    "rate-credit": {
+      "other": "Rate/Kredit"
+    },
+    "price-month": {
+      "other": "Preis/Monat"
+    },
+    "to": {
+      "other": "zu"
+    },
+    "flat-rate": {
+      "other": "Pauschalpreis"
+    },
+    "next": {
+      "other": "Weiter"
+    },
+    "fixed": {
+      "other": "Fest"
+    },
+    "any-additional": {
+      "other": "Jegliche zusätzliche"
+    },
+    "calculate": {
+      "other": "Berechnen"
+    },
+    "processed-credits": {
+      "other": "Gesamtverarbeitete Credits"
+    },
+    "total-price": {
+      "other": "Gesamtpreis"
+    },
+    "metered": {
+      "other": "Metered"
+    },
+    "get-temp-lic": {
+      "other": "Holen Sie sich eine temporäre Lizenz"
     }
   }
 ]

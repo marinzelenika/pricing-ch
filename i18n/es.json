@@ -7,7 +7,10 @@
       "other": "Aspose.BarCode es una poderosa biblioteca para generar y reconocer códigos de barras 1D y 2D a partir de múltiples tipos de imágenes en cualquier ángulo."
     },
     "only-supported": {
-      "other": "Este producto actualmente solo es compatible con la plataforma .NET y, por lo tanto, no hay paquetes familiares disponibles."
+      "other": "Actualmente no hay un paquete familiar disponible para este producto."
+    },
+    "visit": {
+      "other": "Visite la página del producto"
     },
     "from": {
       "other": "desde"
@@ -16,7 +19,7 @@
       "other": "por plataforma, por año"
     },
     "choose-platform": {
-      "other": "Elige una plataforma"
+      "other": "Elija una sola biblioteca"
     },
     "or": {
       "other": "o"
