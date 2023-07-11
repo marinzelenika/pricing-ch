@@ -1,4 +1,4 @@
-baseURL = 'https://pricing-ch.netlify.app/'
+baseURL = 'https://purchase-qa.conholdate.com/pricing.conholdate/'
 languageCode = 'en-us'
 title = 'Pricing information | conholdate.com'
 theme = 'pricing'

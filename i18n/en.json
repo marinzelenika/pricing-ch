@@ -12,6 +12,9 @@
     "visit": {
       "other": "Visit product page"
     },
+    "related-plugins": {
+      "other": "Related plugins"
+    },
     "from": {
       "other": "from"
     },

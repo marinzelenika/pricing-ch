@@ -3,7 +3,7 @@
   {{ partial "breadcrumb" . }}
   <div class="text-center mt-3 mb-5">
    <h3 class="mb-0"><strong>{{ .Params.Name }}</strong></h3>
-    <a href="{{ .Params.ProductPageUrl }}" class="product-page-link">Visit Product Page</a>
+    <a href="{{ .Params.ProductPageUrl }}" class="product-page-link">{{ i18n "visit" . }}</a>
 </div>
 {{ if not (strings.Contains .Params.Name "Aspose") }}
   <div class="m-5">
@@ -28,6 +28,8 @@
     {{ partial "plugin-tab" . }}
   </div>
   {{ end }}
+  {{ if strings.Contains .Params.Name "Conholdate" }}
   {{ partial "green-btn" . }}
+  {{ end }}
 </div>
 {{ end }}

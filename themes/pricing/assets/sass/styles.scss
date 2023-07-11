@@ -132,12 +132,12 @@ hr {
 }
 
 .help-tip{
-	//position: relative !important;
+	position: relative !important;
 	top: 0px;
 	//right: -10px;
 	text-align: center;
 	background-color: $primary;
-    z-index:9 !important;
+    //z-index:9 !important;
 	border-radius: 50%;
 	width: 16px;
 	height: 16px;
@@ -184,7 +184,7 @@ hr {
 	height: 0;
 	border:6px solid transparent;
 	border-bottom-color:#1E2021;
-     left: 10px;
+    left: 10px;
 	top:-12px;
 }
 

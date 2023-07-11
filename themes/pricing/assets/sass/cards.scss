@@ -138,6 +138,23 @@
     height: 565px;
     padding: 2rem 1rem;
 }
+@media screen and (min-width: 700px) and (max-width: 1300px) {
+  .plugin-card {
+    width: 400px;
+    height: 730px !important;
+  }
+}
+@media screen and (max-width: 399px) {
+  .plugin-card {
+    height: 750px !important;
+  }
+}
+@media screen and (max-width: 299px) {
+  .plugin-card {
+    height: 850px !important;
+  }
+}
+
 .read-more{
   background-color: transparent;
   margin-top: 30px;
